@@ -1,0 +1,29 @@
+What is Variable?
+
+Variable is the Name Of Memory Locations where we can Store our data.its values may be Numbers,Alphabets or 
+Words the name of that memory location must be in characters or set of characters 
+Once You store the value on that loaction then we cannot change it but it can be reused.
+
+A variable can have alphabets, digits, and underscore.
+A variable name can start with the alphabet, and underscore only. It can't start with a digit.
+No whitespace is allowed within the variable name.
+A variable name must not be any reserved word or keyword, e.g. int, float, etc.
+
+for Example:- Num,input,St etc any alphabet or words can be a Varible 
+
+Syntax:- Type Variable_list;
+
+What is Data Type?
+
+Data type tells that What type of data You stored in a Variable it may be integer,Float,or string etc 
+
+Some Basic DataTypes:- Int, Char, String, Float, Long, double ,Array, Etc 
+
+Synatax:- Type_Variable_Name 
+
+
+examples:-   Int Number ;                     Here Int is a Integer data Type and Number is a Variable 
+             Float Num                        Here Float is a data Type and Num is a Variable
+             
+
+             
