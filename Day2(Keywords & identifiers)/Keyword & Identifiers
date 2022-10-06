@@ -1,0 +1,29 @@
+Keyword:- Keywords are Reserved Words. all the keywords has Unique Functionalities the number of keywords are different for different programming 
+language 
+
+These are the example of Some Keywords 
+auto	
+break	
+case	
+char	
+const	
+continue	
+default
+do
+double	
+else	
+enum	
+extern
+etc.
+
+Identifiers:-variables, functions, arrays, structures, unions, labels, etc are the example of Identifiers.identifiers may  should be alphabet.it should not
+start from any Numerical digit .it may be in upper case & Lower case both .its should not be more that 31 Characters 
+
+Examples :- total, sum, average, _m _, sum_1;
+
+Example of invalid identifiers
+
+2sum (starts with a numerical digit)  
+int (reserved word)  
+char (reserved word)  
+m+n (special character, i.e.,
