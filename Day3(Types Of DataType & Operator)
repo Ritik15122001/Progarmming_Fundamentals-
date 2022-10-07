@@ -1,0 +1,35 @@
+Data Types:- Datatypes Specifies what type of which type of value a varible contain integer float or Char.
+
+There are two types of Dataypes 
+1.Primitive Datatype 
+2.Non - Primitive Datatype 
+
+1.Primitive Datatype:- It can store single value at a time.
+ex:- Byte, short, int , long , float, double etc.
+
+2.Non-Primitive DataType:- it can Store more then one Value at a time.
+
+ex:- array,String,Classes etc.
+
+What is Operator?
+
+Operator :- Operator is  special symbols that perform different types of operations.
+
+ex:- 5+2=7
+
+here the symbol '+' is a operator that tells us addition operation is performed
+and 5,2 are operends that participates in this operation
+
+
+types of Operator in Java Programming :- 
+
+Arithmetic Operators
+Relational Operators
+Shift Operators
+Logical Operators
+Bitwise Operators
+Ternary or Conditional Operators
+Assignment Operator
+Misc Operator
+
+
