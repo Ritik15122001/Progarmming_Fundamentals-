@@ -1,0 +1,36 @@
+package com.company;
+
+import java.util.Scanner;
+class sum{
+    void intsum(){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter any two number:");
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int sum = a+b;
+        System.out.println(sum);
+    }
+    void floatsum(){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter any two number:");
+        float a = sc.nextInt();
+        float b = sc.nextInt();
+        float sum = a+b;
+        System.out.println(sum);
+    }
+    void doublesum(){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter any two number:");
+        double a = sc.nextInt();
+        double b = sc.nextInt();
+        double sum = a+b;
+        System.out.println(sum);
+    }
+}
+public class datatypes {
+    public static void main(String[] args) {
+        sum obj= new sum();
+        obj.floatsum();
+        obj.doublesum();
+    }
+}
